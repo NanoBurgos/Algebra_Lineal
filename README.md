@@ -16,6 +16,23 @@ Documentar mi aprendizaje en Álgebra Lineal, consolidar conceptos teóricos med
 
 ---
 
+## El contenido combina:
+
+- Apuntes manuscritos
+
+- Ejercicios resueltos a mano
+
+- Material de refuerzo teórico
+
+## Estructura
+
+- `unidades/` → apuntes organizados por tema
+
+## Aviso
+
+Estos apuntes son de uso académico y pueden contener errores.
+
+
 ## 🌐 English Version
 
 # 📐 Linear Algebra
